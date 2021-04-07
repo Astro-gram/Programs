@@ -1,0 +1,5 @@
+﻿  problem_creator.cpp
+C:\Users\Kids\source\repos\problem_creator\problem_creator\problem_creator.cpp(10,26): warning C4305: 'initializing': truncation from '__int64' to 'int'
+C:\Users\Kids\source\repos\problem_creator\problem_creator\problem_creator.cpp(10,12): warning C4309: 'initializing': truncation of constant value
+C:\Users\Kids\source\repos\problem_creator\problem_creator\problem_creator.cpp(11,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  problem_creator.vcxproj -> C:\Users\Kids\source\repos\problem_creator\Debug\problem_creator.exe
