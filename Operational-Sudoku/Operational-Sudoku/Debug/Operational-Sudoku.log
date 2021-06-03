@@ -1,0 +1,4 @@
+﻿  Operational-Sudoku.cpp
+C:\Users\Kids\source\repos\Operational-Sudoku\Operational-Sudoku\Operational-Sudoku.cpp(112,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Kids\source\repos\Operational-Sudoku\Operational-Sudoku\Operational-Sudoku.cpp(182,9): warning C4552: '%': result of expression not used
+C:\Users\Kids\source\repos\Operational-Sudoku\Operational-Sudoku\Operational-Sudoku.cpp(189,3): error C2065: 'values': undeclared identifier

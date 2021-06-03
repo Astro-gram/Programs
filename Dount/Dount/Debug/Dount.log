@@ -1,0 +1,3 @@
+﻿  Dount.cpp
+C:\Users\Kids\source\repos\Dount\Dount\Dount.cpp(7,1): error C2144: syntax error: 'float' should be preceded by ';'
+C:\Users\Kids\source\repos\Dount\Dount\Dount.cpp(9,1): error C2447: '{': missing function header (old-style formal list?)

@@ -1,2 +1,3 @@
 ﻿  Trivia.cpp
+C:\Users\Kids\source\repos\Trivia\Trivia\Trivia.cpp(118,20): warning C4018: '<': signed/unsigned mismatch
   Trivia.vcxproj -> C:\Users\Kids\source\repos\Trivia\Debug\Trivia.exe

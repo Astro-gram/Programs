@@ -3,9 +3,11 @@
 
 #include <iostream>
 #include <string>
+#include <cctype>
 using namespace std;
 
 void askTrivia(string questions[4], string answers[4]);
+string lowercase(string str);
 
 int main()
 {
@@ -109,6 +111,18 @@ int main()
 	system("pause");
 }
 
+string lowercase(string str)
+{
+	string lowerString;
+
+	for (int i = 0; i < str.length(); i++)
+	{
+		lowerString += tolower(str[i]);
+	}
+
+	return lowerString;
+}
+
 
 
 void askTrivia(string questions[4], string answers[4])
@@ -122,7 +136,7 @@ void askTrivia(string questions[4], string answers[4])
 		cout << "\nWhat is the answer: ";
 		getline(cin, userAnswer);
 
-		if (userAnswer == answers[i])
+		if (lowercase(userAnswer) == lowercase(answers[i]))
 		{
 			++score;
 			rightOrWrong[i] = 1;
