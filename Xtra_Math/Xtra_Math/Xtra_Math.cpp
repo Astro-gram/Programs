@@ -41,9 +41,6 @@ int main()
 		}
 	}
 
-	
-
-	
 	system("pause");
 
 }

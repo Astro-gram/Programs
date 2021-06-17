@@ -1,0 +1,13 @@
+﻿  cppTest.cpp
+C:\Users\Kids\source\repos\cppTest\cppTest\cppTest.cpp(18,13): error C2593: 'operator =' is ambiguous
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\xstring(2881,19): message : could be 'std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(const _Elem)'
+          with
+          [
+              _Elem=char
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\xstring(2877,19): message : or       'std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(const _Elem *const )'
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\Kids\source\repos\cppTest\cppTest\cppTest.cpp(18,13): message : while trying to match the argument list '(std::string, int)'
