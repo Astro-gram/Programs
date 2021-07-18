@@ -6,16 +6,10 @@ using namespace std;
 
 int main()
 {
-	string num = "1\n\n";
-	int setNULL;
+	string coding = "Coding";
 
-	cout << num;
-
-	cout << "1 = 1 = null: ";
-	cin >> setNULL;
-
-	if (setNULL == 1)
-		num = NULL;
-
-	cout << num;
+	if (coding != "Coding")
+		cout << "I don't want to code.";
+	else
+		cout << "Let me Code!";
 }

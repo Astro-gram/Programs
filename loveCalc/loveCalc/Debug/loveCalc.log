@@ -1,0 +1,4 @@
+﻿  loveCalc.cpp
+C:\Users\Kids\source\repos\loveCalc\loveCalc\loveCalc.cpp(34,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Kids\source\repos\loveCalc\loveCalc\loveCalc.cpp(36,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  loveCalc.vcxproj -> C:\Users\Kids\source\repos\loveCalc\Debug\loveCalc.exe

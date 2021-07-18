@@ -1,0 +1,4 @@
+﻿  game.cpp
+C:\Users\Kids\source\repos\game\game\game.cpp(12,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Kids\source\repos\game\game\game.cpp(32,20): warning C4018: '<': signed/unsigned mismatch
+  game.vcxproj -> C:\Users\Kids\source\repos\game\Debug\game.exe

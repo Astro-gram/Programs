@@ -1,0 +1,3 @@
+﻿  CrossWord.cpp
+C:\Users\Kids\source\repos\CrossWord\CrossWord\CrossWord.cpp(37,27): error C2660: 'CreateBoard': function does not take 2 arguments
+C:\Users\Kids\source\repos\CrossWord\CrossWord\CrossWord.cpp(8,6): message : see declaration of 'CreateBoard'

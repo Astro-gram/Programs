@@ -184,7 +184,7 @@ void createBlanks()
 	
 	int orginalBoard;
 
-	orginalBoard = board
+	//orginalBoard = board;
 }
 
 void printBoardClean(int board[9][9])
